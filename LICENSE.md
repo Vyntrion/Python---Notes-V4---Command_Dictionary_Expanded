@@ -2,7 +2,7 @@
 
 ## 🔒 Educational Use Only – Not for Resale or Distribution
 
-This content is licensed under a **custom educational license** created by **Vyntrion (aka Vanshu)**.  
+This content is licensed under a **custom educational license** created by **Vyntrion (aka Vansh)**.  
 These notes are made to help learners grow — **not** to be sold, copied, or misused.
 
 ---
