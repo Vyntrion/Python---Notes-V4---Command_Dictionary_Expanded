@@ -25,7 +25,7 @@ These notes are made to help learners grow — **not** to be sold, copied, or mi
 ---
 
 ## 📂 Official GitHub Link:
-📎 [https://github.com/Vyntrion/NotesV4_Command_Dictionary](https://github.com/Vyntrion/Python---Notes-V4---Command_Dictionary_Expanded)  
+📎 [https://github.com/Vyntrion/Python---Notes-V4---Command_Dictionary_Expanded](https://github.com/Vyntrion/Python---Notes-V4---Command_Dictionary_Expanded)  
 Use this link to view the notes. No download required.
 
 ---
